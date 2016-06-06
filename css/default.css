@@ -11,7 +11,8 @@
 }
 
 body{
-  background-image: url(),url();
-  background-repeat: no-repeat;
+  background-image: url(わんわん.png),url(怒った顔の猫.jpg);
+  background-repeat: no-repeat,no-repeat;
   background-color: #99FF99;
+  margin: 5px;
 }
