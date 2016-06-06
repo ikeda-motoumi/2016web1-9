@@ -2,6 +2,7 @@
   color: silver;
   text-shadow: -1px -1px 0px white,
   1px 1px 0px darkgray;
+  font-size: 10px;
 }
 
 .box-inset_drop_shadow{
@@ -16,4 +17,16 @@ body{
   background-color: #99FF99;
   background-size: 100% 100%,cover;
   margin: 5px;
+}
+
+.button{
+  display: block;
+  margin: 5px;
+  padding: 10px;
+  width: 200px;
+  text-aling:center;
+  border-radius: 5px;
+  box-shadow: 1px 1px 0 rgba(0,0,0,0,4);
+  background-color: black;
+  background: linear-gradient(0deg,#00679a,#0081b4 50%,#63b3d2 50%,#bfe5f2);
 }
