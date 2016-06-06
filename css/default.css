@@ -14,6 +14,6 @@ body{
   background-image: url(../わんわん.png),url(../怒った顔の猫.jpg);
   background-repeat: no-repeat,no-repeat;
   background-color: #99FF99;
-  background-size: 100px 100px,cover;
+  background-size: 100%,cover;
   margin: 5px;
 }
