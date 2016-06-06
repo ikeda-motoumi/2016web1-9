@@ -1,1 +1,17 @@
+.bebele{
+  color: silver;
+  text-shadow: -1px -1px 0px white,
+  1px 1px 0px darkgray;
+}
 
+.box-inset_drop_shadow{
+  box-shadow: 2px 2px 5px gray inset;
+  padding: 5px;
+  margin: 20px;
+}
+
+body{
+  background-image: url(),url();
+  background-repeat: no-repeat;
+  background-color: #99FF99;
+}
